@@ -100,7 +100,7 @@ I update this repo as I complete each lecture. Star ⭐ the repo if you find it 
 
 ## 🙋 Author
 
-**Your Name**  
+Raghav Semwal  
 Learning Python from scratch via Apna College 🚀  
 Feel free to connect or raise an issue if you spot a bug!
 
